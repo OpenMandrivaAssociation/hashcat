@@ -6,6 +6,7 @@ License:        MIT
 Group:          Productivity/Security
 Url:            https://hashcat.net/
 Source0:        https://github.com/hashcat/hashcat/archive/v%version.tar.gz
+BuildRequires:	make
 BuildRequires:  gmp-devel
 BuildRequires:  pkgconfig(OpenCL)
 ExclusiveArch:  %ix86 x86_64 znver1
