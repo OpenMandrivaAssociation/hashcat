@@ -1,5 +1,5 @@
 Name:           hashcat
-Version:	5.1.0
+Version:	7.1.2
 Release:	1
 Summary:        CPU-based password recovery utility
 License:        MIT
